@@ -11,7 +11,7 @@ const Hero = () => {
             We're sorry, <br className='max-md:hidden'/>
             <span className='orange_gradient'>our website is down..</span>
         </h1>
-        <h2 className="text-slate-600 mb-10 "> We apolozise that maintenance is taking longer than expected.<br/>
+        <h2 className="text-slate-600 mb-10 justify-ceenter items-center md:mb-4 "> We apolozise that maintenance is taking longer than expected.<br/>
         </h2>
         <h1 className="text-slate-600 mb-10">Thank you for your patience </h1>
 
